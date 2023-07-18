@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-17T08:14:58 IST" name="Default suite" finished-at="2023-07-17T08:14:58 IST" duration-ms="83">
+    <groups>
+    </groups>
+    <test started-at="2023-07-17T08:14:58 IST" name="Default test" finished-at="2023-07-17T08:14:58 IST" duration-ms="83">
+      <class name="testNG.DataProviderPractice">
+        <test-method signature="DataProviderDemo(java.lang.String,int)[pri:0, instance:testNG.DataProviderPractice@74751b3]" started-at="2023-07-17T08:14:58 IST" name="DataProviderDemo" data-provider="getData" finished-at="2023-07-17T08:14:58 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPhone]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[25000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProviderDemo -->
+        <test-method signature="DataProviderDemo(java.lang.String,int)[pri:0, instance:testNG.DataProviderPractice@74751b3]" started-at="2023-07-17T08:14:58 IST" name="DataProviderDemo" data-provider="getData" finished-at="2023-07-17T08:14:58 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProviderDemo -->
+        <test-method signature="DataProviderDemo(java.lang.String,int)[pri:0, instance:testNG.DataProviderPractice@74751b3]" started-at="2023-07-17T08:14:58 IST" name="DataProviderDemo" data-provider="getData" finished-at="2023-07-17T08:14:58 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vivo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProviderDemo -->
+      </class> <!-- testNG.DataProviderPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
